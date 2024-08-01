@@ -1,6 +1,7 @@
 # Prodigy-Infotech-Data-Science-Internship_01
 
 # TASK 2
+![Alt text](https://github.com/KrupiRajendraPangam/Prodigy-Infotech-Data-Science-Internship_Task_02/blob/main/Task2.jpg)
 # DATA UNDERSTANDING
 The datasets is obtained from Kaggle: Titanic
 
