@@ -1,4 +1,4 @@
-# Prodigy-Infotech-Data-Science-Internship_01
+# Prodigy-Infotech-Data-Science-Internship_02
 
 # TASK 2
 ![Alt text](https://github.com/KrupiRajendraPangam/Prodigy-Infotech-Data-Science-Internship_Task_02/blob/main/Task2.jpg)
